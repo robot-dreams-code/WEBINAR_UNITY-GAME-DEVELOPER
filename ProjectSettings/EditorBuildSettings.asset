@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/TowerStuff.unity
+    guid: 9247a3aa46c218f43a84531546173d12
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f,
+      type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a5d2416b366a06f459335424ecd34616,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 44766ed9a2d370247b7814af92903e41,
+      type: 2}
